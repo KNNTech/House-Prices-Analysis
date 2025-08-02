@@ -1,7 +1,7 @@
 # House Prices — Advanced Regression Techniques  
 *A tidy-verse, caret-driven walkthrough for the classic Kaggle dataset*
 
-![GitHub Pages](https://img.shields.io/badge/View-the-HTML-report-green?logo=github&link=https://KNNTech.github.io/House-Prices-Analysis/)
+[![GitHub Pages](https://img.shields.io/badge/View%20HTML%20Report-green?logo=github)](https://KNNTech.github.io/House-Prices-Analysis/)
 
 ## Project Overview
 This repository contains **`House Prices Advanced Regression Techniques.Rmd`**, an end-to-end R Markdown notebook that:
